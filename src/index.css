@@ -5,3 +5,12 @@
 body {
   margin: 0;
 }
+
+
+/*
+Temporary
+  - Use Tailwind components and customization
+*/
+a:hover { 
+  text-decoration: 1px #000 underline;
+}
